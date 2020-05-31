@@ -1,0 +1,61 @@
+body{
+    background: rgb(24, 22, 22);
+}
+h1{
+    background: black;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+}
+#menu{
+    background-color: black;
+}
+
+
+#menu ul{
+    margin:0px;
+    padding: 0px;
+    list-style: none;
+
+}
+#menu ul li{
+     display: inline-block;
+}
+#menu ul li a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 20px 20px;
+}
+#menu ul li a:hover{
+    background-color: rgb(24, 22, 22);
+
+
+}
+.info{
+    border: 5px black solid;
+    margin: 15px;
+    background-color: black;
+}
+h2{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.presentacion{
+    color: white;
+    text-align: center;
+}
+h3{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+.porcent{
+    color:white;
+    text-align: center;
+
+}
+.apre{
+    background-color: black;
+}
